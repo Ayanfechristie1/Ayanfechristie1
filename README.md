@@ -1,43 +1,67 @@
 ### Hi, I'm Christianah 👋
 
-AI/ML Developer | Data Annotation Specialist | Assistive Technology Researcher
+**Computer Scientist | Machine Learning for IT Systems | Anomaly & Novelty Detection**
 
-I hold a B.Sc. in Computer Science and work at the intersection of machine learning,
-data annotation, and human-centered systems. My published research applies statistical
-log analysis and machine learning to intelligent IT support systems, and my TCC (thesis)
-project designed a Transformer-based multi-modal framework for assistive wheelchair
-technology in healthcare environments.
+I'm a computer scientist focused on machine learning applied to IT systems, with an emphasis on anomaly and novelty detection in streaming data. I hold a B.Sc. in Computer Science from Bestower International University (BIU), Benin, and previously studied at Lagos State Polytechnic (LASPOTECH), Nigeria. Since 2023, I've worked as a Technical Consultant at Samsung Electronics West Africa, where hands-on device diagnostics and log analysis led to my first published paper on intelligent IT support systems.
 
-**Currently exploring:** anomaly detection in system/IT logs, and multi-modal deep
-learning for assistive and accessibility-focused applications.
+**Currently exploring:** deep learning-based novelty detection for streaming system logs, with a focus on robustness under concept drift, applied to intelligent IT support systems.
 
 ---
 
-**Published research**
-- *Intelligent IT support systems based on statistical log analysis and machine learning
-  models* — International Journal of Science and Research Archive, 2026.
-  [https://doi.org/10.30574/ijsra.2026.18.1.0116 →](#)
+### 📄 Published Research
 
-**Selected projects**
-- 🦽 **Assistive Wheelchair Multi-Modal Framework** — Transformer-based navigation and
-  interaction system for healthcare environments (B.Sc. thesis project).
-- 🔍 **IT Log Anomaly Detection (MATLAB)** — exploratory app for detecting anomalous
-  patterns in system logs using statistical and ML techniques.
-- 🏷️ **Data Annotation Pipelines** — image/audio/video/text annotation workflows using
-  CVAT and Prodigy for AI/ML training data.
-
-**Technical skills**
-- Languages: Python, MATLAB, Java, HTML5, SQL, R
-- ML/Data: scikit-learn-style modeling, statistical log analysis, data annotation (CVAT, Prodigy)
-- Tools: Figma, Power BI, Google Analytics, MS Office suite
-
-**Find me elsewhere**
-- 🌐 Portfolio: https://bakare-christianah.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/christianah-oluwatobi-03559b179
-- 🎓 Lattes CV: http://lattes.cnpq.br/9603257855506766
-- 🆔 ORCID: https://orcid.org/0009-0007-9531-8511
+- **Intelligent IT Support Systems Based on Statistical Log Analysis and Machine Learning Models**
+  Oluwatobi, B.C.; Cyril, O.N.; Julius, O.K.; Makinde, O.A. — *International Journal of Science and Research Archive*, v.18, p.694–705, 2026.
+  [Read the paper →](https://ijsra.net/content/intelligent-it-support-systems-based-statistical-log-analysis-and-machine-learning-models) <!-- replace # with the real DOI or journal URL -->
 
 ---
-*Open to Master's research opportunities in AI/ML applied to IT systems and assistive technology.*## Hi there 👋
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Selected Projects
+
+- 🗳️ **[Automated/Online Voting System](#)** — Thesis (TCC) project at BIU: design and implementation of a secure electronic voting system using RSA and AES-256 encryption. *Advisor: Dr. Giwa Olalekan.*
+- 📹 **[IP Video Surveillance System](#)** — Capstone project at LASPOTECH: a methodological approach to implementing IP-based video surveillance systems. *Advisor: Dr. Benson A.A.*
+- 🔍 **[IT Log Anomaly Detection](#)** — Exploratory project applying statistical and ML techniques to detect anomalous patterns in system/IT logs, building on the research above.
+
+<!-- Replace each # above with the actual repo link -->
+
+---
+
+### 🏆 Awards & Honors
+
+- 2024 — Award of the Best Productive Staff, BG Professional Awards
+- 2021 — Award of Excellence (Lady Vice President), Lagos State Polytechnic
+- 2016 — Best Student Female of the Year, Samsung Engineering Academy
+- 2016 — Certificate of Bronze Achievement, Samsung Engineering Academy
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages:** Python · MATLAB · Java · HTML5 · SQL · R
+**ML / Data:** scikit-learn-style modeling · statistical log analysis · data annotation (CVAT, Prodigy)
+**Tools:** Figma · Power BI · Google Analytics · MS Office Suite
+
+---
+
+### 📜 Certifications
+
+- Aspire Leaders Program, 2025 — Khanna, T.; Lakhani, K. (short-duration specialization)
+- Mckinsey.org Forward Program - May Wazzan. ; Anne-Marie Frassica (short-internship skills developing specialization)
+- HTML skill Experts Certificate- 
+
+<!-- Add more as you complete them, e.g.: -->
+<!-- - Kaggle: Intro to Machine Learning -->
+<!-- - freeCodeCamp: Data Analysis with Python -->
+<!-- - HackerRank: Python (Basic) -->
+---
+
+### 🌐 Find Me Elsewhere
+
+- Portfolio: [bakare-christianah.vercel.app](https://bakare-christianah.vercel.app/)
+- LinkedIn: [christianah-oluwatobi](https://www.linkedin.com/in/christianah-oluwatobi-03559b179)
+- Lattes CV: [lattes.cnpq.br/9603257855506766](http://lattes.cnpq.br/9603257855506766)
+- ORCID: [0009-0007-9531-8511](https://orcid.org/0009-0007-9531-8511)
+
+---
+
+*Open to Master's research opportunities in AI/ML applied to IT systems, anomaly detection, and secure systems.*
