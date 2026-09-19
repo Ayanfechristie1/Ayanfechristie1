@@ -21,8 +21,7 @@ I'm a computer scientist focused on machine learning applied to IT systems, with
 - 🗳️ **[Automated/Online Voting System](#)** — Thesis (TCC) project at BIU: design and implementation of a secure electronic voting system using RSA and AES-256 encryption. *Advisor: Dr. Giwa Olalekan.*
 - 📹 **[IP Video Surveillance System](#)** — Capstone project at LASPOTECH: a methodological approach to implementing IP-based video surveillance systems. *Advisor: Dr. Benson A.A.*
 - 🔍 **[IT Log Anomaly Detection](#)** — Exploratory project applying statistical and ML techniques to detect anomalous patterns in system/IT logs, building on the research above.
-
-<!-- Replace each # above with the actual repo link -->
+- 🔍 **[Annotation-Image Traffic Flow Assessment] (https://annotation-tasks-rose.vercel.app/)** - Explanatory Project on how Traffic Flow are being regulated and displayed.<!-- Replace each # above with the actual repo link -->
 
 ---
 
