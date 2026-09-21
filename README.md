@@ -45,8 +45,9 @@ I'm a computer scientist focused on machine learning applied to IT systems, with
 ### 📜 Certifications
 
 - Aspire Leaders Program, 2025 — Khanna, T.; Lakhani, K. (short-duration specialization)
-- McKinsey.org Forward Program — May Wazzan; Anne-Marie Frassica ([credential](http://credly.com/earner/earned/badge/423ba8ff-c78a-4304-b2e4-21222d2dce0c)) (short-internship skills development specialization)
-- HTML Skill Experts Certificate
+- McKinsey.org Forward Program 2026 — May Wazzan; Anne-Marie Frassica ([credential](http://credly.com/earner/earned/badge/423ba8ff-c78a-4304-b2e4-21222d2dce0c)) (short-internship skills development specialization)
+- HTML Skill Experts Certificate- 2016
+- UI/UX Design Experts Certificate - 2024
 
 ---
 
